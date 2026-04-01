@@ -1,2 +1,2 @@
-# Evaluating-Clustering-Before-and-After-PCA
+# Apply Compare Clustering Algorithms
 Mini Project
